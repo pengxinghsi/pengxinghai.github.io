@@ -11,8 +11,11 @@ redirect_from:
 Peng Xinghai, National Engineering Research Center of Highway Maintenance Technology, Changsha University of Science and Technology, 410114, Hunan, P.R. China. Email:[pengxinghsi@stu.csust.edu.cn](pengxinghsi@stu.csust.edu.cn)
 
 Education:
+
 •	B.S. in Changsha, Changsha University of Science and Technology
+
 •	M.S. in Changsha, Changsha University of Science and Technology
+
 •	Ph.D in Changsha, Changsha University of Science and Technology
 
 Research field:
